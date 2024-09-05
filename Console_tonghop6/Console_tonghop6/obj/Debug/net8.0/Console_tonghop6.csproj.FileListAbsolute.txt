@@ -1,0 +1,14 @@
+F:\C#\Console_tonghop6\Console_tonghop6\bin\Debug\net8.0\Console_tonghop6.exe
+F:\C#\Console_tonghop6\Console_tonghop6\bin\Debug\net8.0\Console_tonghop6.deps.json
+F:\C#\Console_tonghop6\Console_tonghop6\bin\Debug\net8.0\Console_tonghop6.runtimeconfig.json
+F:\C#\Console_tonghop6\Console_tonghop6\bin\Debug\net8.0\Console_tonghop6.dll
+F:\C#\Console_tonghop6\Console_tonghop6\bin\Debug\net8.0\Console_tonghop6.pdb
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\Console_tonghop6.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\Console_tonghop6.AssemblyInfoInputs.cache
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\Console_tonghop6.AssemblyInfo.cs
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\Console_tonghop6.csproj.CoreCompileInputs.cache
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\Console_tonghop6.dll
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\refint\Console_tonghop6.dll
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\Console_tonghop6.pdb
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\Console_tonghop6.genruntimeconfig.cache
+F:\C#\Console_tonghop6\Console_tonghop6\obj\Debug\net8.0\ref\Console_tonghop6.dll

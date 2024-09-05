@@ -1,0 +1,14 @@
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\Console_b5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\Console_b5.AssemblyInfoInputs.cache
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\Console_b5.AssemblyInfo.cs
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\Console_b5.csproj.CoreCompileInputs.cache
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\bin\Debug\net8.0\Console_b5.exe
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\bin\Debug\net8.0\Console_b5.deps.json
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\bin\Debug\net8.0\Console_b5.runtimeconfig.json
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\bin\Debug\net8.0\Console_b5.dll
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\bin\Debug\net8.0\Console_b5.pdb
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\Console_b5.dll
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\refint\Console_b5.dll
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\Console_b5.pdb
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\Console_b5.genruntimeconfig.cache
+C:\Users\vuwin\source\repos\Console_b5\Console_b5\obj\Debug\net8.0\ref\Console_b5.dll

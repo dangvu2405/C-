@@ -1,0 +1,14 @@
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\Console_b2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\Console_b2.AssemblyInfoInputs.cache
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\Console_b2.AssemblyInfo.cs
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\Console_b2.csproj.CoreCompileInputs.cache
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\bin\Debug\net8.0\Console_b2.exe
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\bin\Debug\net8.0\Console_b2.deps.json
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\bin\Debug\net8.0\Console_b2.runtimeconfig.json
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\bin\Debug\net8.0\Console_b2.dll
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\bin\Debug\net8.0\Console_b2.pdb
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\Console_b2.dll
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\refint\Console_b2.dll
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\Console_b2.pdb
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\Console_b2.genruntimeconfig.cache
+C:\Users\vuwin\source\repos\Console_b2\Console_b2\obj\Debug\net8.0\ref\Console_b2.dll
